@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ca.rttv.isnrmn.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "CommandSourceMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
